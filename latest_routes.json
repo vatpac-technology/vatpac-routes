@@ -3875,9 +3875,9 @@
         {
             "dept": "YSSY",
             "dest": "YARM",
-            "route": "AT or ABV A100 DCT TESAT V140 KAMBA V258 MATLA W347 ARM DCT",
+            "route": "DCT TESAT V140 KAMBA V258 MATLA W347 ARM DCT",
             "acft": "Any",
-            "notes": ""
+            "notes": "AT or ABV A100"
         },
         {
             "dept": "YSSY",
@@ -3924,16 +3924,16 @@
         {
             "dept": "YSSY",
             "dest": "YBCG",
-            "route": "AT or ABV A100 DCT TESAT V140 KAMBA V258 MATLA H140 IDNER W598 RIDVO GOMOL DCT",
+            "route": "DCT TESAT V140 KAMBA V258 MATLA H140 IDNER W598 RIDVO GOMOL DCT",
             "acft": "Non-Jet Only",
-            "notes": "(non-RNAV or non- RNP only)"
+            "notes": "AT or ABV A100 (non-RNAV or non- RNP only)"
         },
         {
             "dept": "YSSY",
             "dest": "YBCG",
-            "route": "AT or ABV A100 DCT KAMBA V258 MATLA H140 IDNER W598 RIDVO GOMOL DCT",
+            "route": "DCT KAMBA V258 MATLA H140 IDNER W598 RIDVO GOMOL DCT",
             "acft": "Any",
-            "notes": "(non-RNAV or non-RNP only)"
+            "notes": "AT or ABV A100 (non-RNAV or non-RNP only)"
         },
         {
             "dept": "YSSY",
@@ -3952,30 +3952,30 @@
         {
             "dept": "YSSY",
             "dest": "YBBN",
-            "route": "BLW FL250 DCT TESAT H252 UPNEX H140 MATLA Y43 BANDA H252 LAGOB DCT",
+            "route": "DCT TESAT H252 UPNEX H140 MATLA Y43 BANDA H252 LAGOB DCT",
             "acft": "Any",
-            "notes": ""
+            "notes": "BLW FL250"
         },
         {
             "dept": "YSSY",
             "dest": "YBBN",
-            "route": "BETWEEN A100 and FL240 DCT UPNEX H140 MATLA Y43 BANDA H252 LAGOB DCT",
+            "route": "DCT UPNEX H140 MATLA Y43 BANDA H252 LAGOB DCT",
             "acft": "Any",
-            "notes": ""
+            "notes": "BETWEEN A100 and FL240"
         },
         {
             "dept": "YSSY",
             "dest": "YBBN",
-            "route": "AT or ABV A100 DCT TESAT V140 KAMBA V258 MATLA H140 IDNER W214 GOMOL H252 BN DCT",
+            "route": "DCT TESAT V140 KAMBA V258 MATLA H140 IDNER W214 GOMOL H252 BN DCT",
             "acft": "Non-Jet Only",
-            "notes": ""
+            "notes": "AT or ABV A100"
         },
         {
             "dept": "YSSY",
             "dest": "YBBN",
-            "route": "AT or ABV A100 DCT KAMBA V258 MATLA H140 IDNER H66 LAGOB DCT",
+            "route": "DCT KAMBA V258 MATLA H140 IDNER H66 LAGOB DCT",
             "acft": "Any",
-            "notes": ""
+            "notes": "AT or ABV A100"
         },
         {
             "dept": "YSSY",
@@ -4120,9 +4120,9 @@
         {
             "dept": "YSSY",
             "dest": "YCFS",
-            "route": "AT or ABV A100 DCT UPNEX H252 WLM V535 NICLA V652 CFS DCT",
+            "route": "DCT UPNEX H252 WLM V535 NICLA V652 CFS DCT",
             "acft": "Any",
-            "notes": ""
+            "notes": "AT or ABV A100"
         },
         {
             "dept": "YSSY",
@@ -4183,16 +4183,16 @@
         {
             "dept": "YSSY",
             "dest": "YGFN",
-            "route": "AT or ABV A100 DCT TESAT V140 KAMBA V258 MATLA H140 LOSKU W334 GFN DCT",
+            "route": "DCT TESAT V140 KAMBA V258 MATLA H140 LOSKU W334 GFN DCT",
             "acft": "Any",
-            "notes": ""
+            "notes": "AT or ABV A100"
         },
         {
             "dept": "YSSY",
             "dest": "YGFN",
-            "route": "AT or ABV A100 DCT KAMBA V258 MATLA H140 LOSKU W334 GFN DCT",
+            "route": "DCT KAMBA V258 MATLA H140 LOSKU W334 GFN DCT",
             "acft": "Any",
-            "notes": ""
+            "notes": "AT or ABV A100"
         },
         {
             "dept": "YSSY",
@@ -4694,9 +4694,9 @@
         {
             "dept": "YSSY",
             "dest": "YSTW",
-            "route": "AT or ABV A100 DCT TESAT V140 KAMBA V258 TW DCT",
+            "route": "DCT TESAT V140 KAMBA V258 TW DCT",
             "acft": "Any",
-            "notes": ""
+            "notes": "AT or ABV A100"
         },
         {
             "dept": "YSSY",
