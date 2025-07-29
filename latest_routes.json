@@ -2147,7 +2147,7 @@
             "dept": "YMML",
             "dest": "YSSY",
             "route": "DCT ML H129 DOSEL W569 AY W817 AKMIR W113 ODALE DCT",
-            "acft": "Any",
+            "acft": "Non-Jet Only",
             "notes": ""
         },
         {
@@ -4429,28 +4429,28 @@
             "dept": "YSSY",
             "dest": "YMML",
             "route": "DCT PEGSU V169 ML DCT",
-            "acft": "Any",
+            "acft": "Non-Jet Only",
             "notes": ""
         },
         {
             "dept": "YSSY",
             "dest": "YMML",
             "route": "DCT TESAT H65 LEECE Q29 ML DCT",
-            "acft": "Any",
+            "acft": "Jet Only",
             "notes": ""
         },
         {
             "dept": "YSSY",
             "dest": "YMML",
             "route": "DCT WOL H65 LEECE Q29 ML DCT",
-            "acft": "Any",
+            "acft": "Jet Only",
             "notes": ""
         },
         {
             "dept": "YSSY",
             "dest": "YMML",
             "route": "DCT TESAT V169 PEGSU V20 TEMIS V169 ML DCT",
-            "acft": "Any",
+            "acft": "Non-Jet Only",
             "notes": ""
         },
         {
