@@ -6503,6 +6503,69 @@
             "route": "DCT WLM MONDO H201 TESAT V169 PEGSU V501 NWA DCT",
             "acft": "Non-Jet Only*",
             "notes": ""
+        },
+        {
+            "dept": "YPAD",
+            "dest": "VTBS",
+            "route": "AREPA A585 PD R206 ATMAL N646 PKU N633 VKL OGANA Y501 RIGTO M769 LEBIM",
+            "acft": "Any",
+            "notes": ""
+        },
+        {
+            "dept": "YPAD",
+            "dest": "VHHH",
+            "route": "AREPA Q8 AKDAV T20 BOPLO B349 BLI M522 ELANG R223 BRU L649 LAXOR M772 ASOBA EPDOS MYWAY V561 CANTO",
+            "acft": "Any",
+            "notes": ""
+        },
+        {
+            "dept": "YPAD",
+            "dest": "WSSS",
+            "route": "AREPA A585 PLB G579 REPOV",
+            "acft": "Any",
+            "notes": ""
+        },
+        {
+            "dept": "YMML",
+            "dest": "VTBS",
+            "route": "KEPPA H164 LEC A461 AS A587 ONOXA A587 MUBOT PKN G464 PNK N875 ENREP N891 RYN",
+            "acft": "Any",
+            "notes": ""
+        },
+        {
+            "dept": "YMML",
+            "dest": "VHHH",
+            "route": "KEPPA H336 NATYA J19 BHI T25 TNK J30 TN BEDUG BUTPA A461 ZAM A583 SABNO V542 BETTY",
+            "acft": "Any",
+            "notes": ""
+        },
+        {
+            "dept": "YMML",
+            "dest": "WSSS",
+            "route": "KEPPA Q168 WR T29 CIN A576 ATMAP M635 SURGA T23 UGEBO",
+            "acft": "Any",
+            "notes": ""
+        },
+        {
+            "dept": "YSSY",
+            "dest": "VTBS",
+            "route": "RIC H530 IVRAD Q57 MIGAX DN M768 TSH R468 ELMOP P629 NUGPA",
+            "acft": "Any",
+            "notes": ""
+        },
+        {
+            "dept": "YSSY",
+            "dest": "VHHH",
+            "route": "RIC H530 BAZZA RENAK Q79 GULOP B587 OPABA TMK W63 BIK B462 TAC W9 NGA W9B JOM DCT CUY W2 LAO M501 NOMAN V532 DAKTO V525 BETTY",
+            "acft": "Any",
+            "notes": ""
+        },
+        {
+            "dept": "YSSY",
+            "dest": "WSSS",
+            "route": "KADOM ENPAG T74 MILIV AGUST A464 KIKEM M774 OBDOS T22 UGEBO",
+            "acft": "Any",
+            "notes": ""
         }
     ]
 }
