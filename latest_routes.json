@@ -389,9 +389,16 @@
     {
       "dept": "YBBN",
       "dest": "YPAD",
-      "route": "DCT BN H91 SANEG Q4 PAVBI Q16 MIA Q4 WOONA Q60 KAKLU H309 AD DCT If R570C or D active: DCT BN H91 SANEG Q4 WOONA Q60 KAKLU H309 AD DCT",
+      "route": "DCT BN H91 SANEG Q4 PAVBI Q16 MIA Q4 WOONA Q60 KAKLU H309 AD DCT",
       "acft": "Any",
       "notes": ""
+    },
+    {
+      "dept": "YBBN",
+      "dest": "YPAD",
+      "route": "DCT BN H91 SANEG Q4 WOONA Q60 KAKLU H309 AD DCT",
+      "acft": "Any",
+      "notes": "If R570C or D active"
     },
     {
       "dept": "YBBN",
@@ -543,9 +550,16 @@
     {
       "dept": "YBCG",
       "dest": "YPAD",
-      "route": "DCT GOMOL Q16  MIA Q4 WOONA Q60 KAKLU H309 AD DCT If R570C or D active: DCT GOMOL Q16 PAVBI Q4 WOONA Q60 KAKLU H309 AD DCT",
+      "route": "DCT GOMOL Q16  MIA Q4 WOONA Q60 KAKLU H309 AD DCT",
       "acft": "Any",
       "notes": ""
+    },
+    {
+      "dept": "YBCG",
+      "dest": "YPAD",
+      "route": "DCT GOMOL Q16 PAVBI Q4 WOONA Q60 KAKLU H309 AD DCT",
+      "acft": "Any",
+      "notes": "If R570C or D active"
     },
     {
       "dept": "YBCG",
@@ -2482,9 +2496,16 @@
     {
       "dept": "YPAD",
       "dest": "YBBN",
-      "route": "DCT AD UPROT Y27 IGIPA Y46 EMTID Y27 BN DCT If R570C or D active DCT AD UPROT Y27 BN DCT",
+      "route": "DCT AD UPROT Y27 IGIPA Y46 EMTID Y27 BN DCT",
       "acft": "Any",
       "notes": ""
+    },
+    {
+      "dept": "YPAD",
+      "dest": "YBBN",
+      "route": "DCT AD UPROT Y27 BN DCT",
+      "acft": "Any",
+      "notes": "If R570C or D active"
     },
     {
       "dept": "YPAD",
@@ -4029,9 +4050,9 @@
     {
       "dept": "YSSY",
       "dest": "YARM",
-      "route": "AT or ABV A100 DCT TESAT V140 KAMBA V258 MATLA W347 ARM DCT",
+      "route": "DCT TESAT V140 KAMBA V258 MATLA W347 ARM DCT",
       "acft": "Any",
-      "notes": ""
+      "notes": "AT or ABV A100"
     },
     {
       "dept": "YSSY",
@@ -4078,16 +4099,16 @@
     {
       "dept": "YSSY",
       "dest": "YBCG",
-      "route": "AT or ABV A100 DCT TESAT V140 KAMBA V258 MATLA H140 IDNER W598 RIDVO GOMOL DCT",
+      "route": "DCT TESAT V140 KAMBA V258 MATLA H140 IDNER W598 RIDVO GOMOL DCT",
       "acft": "Non-Jet Only",
-      "notes": "(non-RNAV or non- RNP only)"
+      "notes": "AT or ABV A100 (non-RNAV or non- RNP only)"
     },
     {
       "dept": "YSSY",
       "dest": "YBCG",
-      "route": "AT or ABV A100 DCT KAMBA V258 MATLA H140 IDNER W598 RIDVO GOMOL DCT",
+      "route": "DCT KAMBA V258 MATLA H140 IDNER W598 RIDVO GOMOL DCT",
       "acft": "Any",
-      "notes": "(non-RNAV or non-RNP only)"
+      "notes": "AT or ABV A100 (non-RNAV or non-RNP only)"
     },
     {
       "dept": "YSSY",
@@ -4106,37 +4127,65 @@
     {
       "dept": "YSSY",
       "dest": "YBBN",
-      "route": "BETWEEN A100 and FL240 DCT UPNEX H140 MATLA Y43 BANDA H252 LAGOB DCT",
+      "route": "DCT UPNEX H140 MATLA Y43 BANDA H252 LAGOB DCT",
       "acft": "Any",
-      "notes": ""
+      "notes": "BETWEEN A100 and FL240 "
     },
     {
       "dept": "YSSY",
       "dest": "YBBN",
-      "route": "AT or ABV A100 DCT TESAT V140 KAMBA V258 MATLA H140 IDNER W214 GOMOL H252 BN DCT",
+      "route": "DCT TESAT V140 KAMBA V258 MATLA H140 IDNER W214 GOMOL H252 BN DCT",
       "acft": "Non-Jet Only",
-      "notes": ""
+      "notes": "AT or ABV A100"
     },
     {
       "dept": "YSSY",
       "dest": "YBBN",
-      "route": "AT or ABV A100 DCT KAMBA V258 MATLA H140 IDNER H66 LAGOB DCT",
+      "route": "DCT KAMBA V258 MATLA H140 IDNER H66 LAGOB DCT",
+      "acft": "Any",
+      "notes": "AT or ABV A100"
+    },
+    {
+      "dept": "YSSY",
+      "dest": "YBCS",
+      "route": "DCT TESAT H530 LASUD Q293 AKUMI Q147 VOMPA Q499 NONUM J64 CS DCT",
       "acft": "Any",
       "notes": ""
     },
     {
       "dept": "YSSY",
       "dest": "YBCS",
-      "route": "DCT TESAT H530 LASUD Q293 AKUMI Q147 VOMPA Q499 NONUM J64 CS DCT If R570B or D active: DCT TESAT H530 KABIX Q147 VOMPA Q499 NONUM J64 CS DCT If R481 active: Plan KADOM W604 BENBU Q304 LASUD",
+      "route": "DCT TESAT H530 KABIX Q147 VOMPA Q499 NONUM J64 CS DCT",
+      "acft": "Any",
+      "notes": "If R570B or D active"
+    },
+    {
+      "dept": "YSSY",
+      "dest": "YBCS",
+      "route": "KADOM W604 BENBU Q304 LASUD",
+      "acft": "Any",
+      "notes": "If R481 active"
+    },
+    {
+      "dept": "YSSY",
+      "dest": "YBHM",
+      "route": "DCT TESAT H530 LASUD Q238 DUPUG Q141 OVRON DCT",
       "acft": "Any",
       "notes": ""
     },
     {
       "dept": "YSSY",
       "dest": "YBHM",
-      "route": "DCT TESAT H530 LASUD Q238 DUPUG Q141 OVRON DCT If R570B or D active: DCT TESAT H530 KABIX Q141 OVRON DCT If R481 active: Plan KADOM W604 BENBU Q304 LASUD",
+      "route": "DCT TESAT H530 KABIX Q141 OVRON DCT",
       "acft": "Any",
-      "notes": ""
+      "notes": "If R570B or D active"
+    },
+    {
+      "dept": "YSSY",
+      "dest": "YBHM",
+      "route": "DCT KADOM W604 BENBU Q304 LASUD",
+      "acft": "Any",
+      "notes": "If R481 active"
     },
     {
       "dept": "YSSY",
@@ -4183,9 +4232,23 @@
     {
       "dept": "YSSY",
       "dest": "YBTL",
-      "route": "DCT TESAT H530 LASUD Q293 AKUMI Q147 VOMPA Q165 TL DCT If R570B or D active: DCT TESAT H530 KABIX Q147 VOMPA Q165 TL DCT If R481 active: DCT KADOM W604 BENBU Q304 LASUD",
+      "route": "DCT TESAT H530 LASUD Q293 AKUMI Q147 VOMPA Q165 TL DCT",
       "acft": "Any",
       "notes": ""
+    },
+    {
+      "dept": "YSSY",
+      "dest": "YBTL",
+      "route": "DCT TESAT H530 KABIX Q147 VOMPA Q165 TL DCT",
+      "acft": "Any",
+      "notes": "If R570B or D active"
+    },
+    {
+      "dept": "YSSY",
+      "dest": "YBTL",
+      "route": "DCT KADOM W604 BENBU Q304 LASUD",
+      "acft": "Any",
+      "notes": "If R481 active" 
     },
     {
       "dept": "YSSY",
@@ -4197,9 +4260,16 @@
     {
       "dept": "YSSY",
       "dest": "YBWW",
-      "route": "DCT TESAT H530 MUDGI H66 TW EMTID Y27 EDPEG DCT LAREG Y24 UDERI DCT If R481 active: DCT KADOM W604 MUDGI",
+      "route": "DCT TESAT H530 MUDGI H66 TW EMTID Y27 EDPEG DCT LAREG Y24 UDERI DCT",
       "acft": "Jet Only",
       "notes": "(expect requirement FL240 by MUDGI)"
+    },
+    {
+      "dept": "YSSY",
+      "dest": "YBWW",
+      "route": "DCT KADOM W604 MUDGI",
+      "acft": "Jet Only",
+      "notes": "If R481 active (expect requirement FL240 by MUDGI)"
     },
     {
       "dept": "YSSY",
@@ -4211,9 +4281,9 @@
     {
       "dept": "YSSY",
       "dest": "YCFS",
-      "route": "AT or ABV A100 DCT UPNEX H252 WLM V535 NICLA V652 CFS DCT",
+      "route": "DCT UPNEX H252 WLM V535 NICLA V652 CFS DCT",
       "acft": "Any",
-      "notes": ""
+      "notes": "AT or ABV A100"
     },
     {
       "dept": "YSSY",
@@ -4253,9 +4323,9 @@
     {
       "dept": "YSSY",
       "dest": "YGFN",
-      "route": "AT or ABV A100 DCT TESAT V140 KAMBA V258 MATLA H140 LOSKU W334 GFN DCT",
+      "route": "DCT TESAT V140 KAMBA V258 MATLA H140 LOSKU W334 GFN DCT",
       "acft": "Any",
-      "notes": ""
+      "notes": "AT or ABV A100"
     },
     {
       "dept": "YSSY",
@@ -4407,9 +4477,16 @@
     {
       "dept": "YSSY",
       "dest": "YMOR",
-      "route": "DCT TESAT H530 MUDGI DCT NBR W456 MOR DCT If R481 active: DCT KADOM W604 BENBU W604 MUDGI",
+      "route": "DCT TESAT H530 MUDGI DCT NBR W456 MOR DCT",
       "acft": "Any",
       "notes": ""
+    },
+    {
+      "dept": "YSSY",
+      "dest": "YMOR",
+      "route": "DCT KADOM W604 BENBU W604 MUDGI",
+      "acft": "Any",
+      "notes": "If R481 active"
     },
     {
       "dept": "YSSY",
@@ -4428,9 +4505,9 @@
     {
       "dept": "YSSY",
       "dest": "YMOR",
-      "route": "At or ABV A100 DCT TESAT V140 KAMBA V258 TW W542 MOR DCT",
+      "route": "DCT TESAT V140 KAMBA V258 TW W542 MOR DCT",
       "acft": "Non-Jet Only",
-      "notes": "(R560/R570 active)"
+      "notes": "At or ABV A100 (R560/R570 active)"
     },
     {
       "dept": "YSSY",
@@ -4484,9 +4561,16 @@
     {
       "dept": "YSSY",
       "dest": "YPDN",
-      "route": "DCT TESAT H530 IVRAD Q57 MIGAX A464 TN Q23 DN DCT If R481 active: DCT KADOM W604 BENBU Q304 LASUD H530 IVRAD Q57 MIGAX A464 TN Q23 DN DCT",
+      "route": "DCT TESAT H530 IVRAD Q57 MIGAX A464 TN Q23 DN DCT",
       "acft": "Any",
       "notes": ""
+    },
+    {
+      "dept": "YSSY",
+      "dest": "YPDN",
+      "route": "DCT KADOM W604 BENBU Q304 LASUD H530 IVRAD Q57 MIGAX A464 TN Q23 DN DCT",
+      "acft": "Any",
+      "notes": "If R481 active"
     },
     {
       "dept": "YSSY",
@@ -4575,9 +4659,9 @@
     {
       "dept": "YSSY",
       "dest": "YSTW",
-      "route": "AT or ABV A100 DCT TESAT V140 KAMBA V258 TW DCT",
+      "route": "DCT TESAT V140 KAMBA V258 TW DCT",
       "acft": "Any",
-      "notes": ""
+      "notes": "AT or ABV A100"
     },
     {
       "dept": "YSSY",
@@ -5268,9 +5352,16 @@
     {
       "dept": "YAMB",
       "dest": "YPED",
-      "route": "DCT BOBOP Q4 PAVBI Q16 MIA Q4 WOONA Q60 KAKLU H309 AD W142 DOLVU DCT If R570C or D active: DCT BOBOP Q4 WOONA Q60 KAKLU H309 AD W142 DOLVU DCT",
+      "route": "DCT BOBOP Q4 PAVBI Q16 MIA Q4 WOONA Q60 KAKLU H309 AD W142 DOLVU DCT",
       "acft": "Any",
       "notes": ""
+    },
+    {
+      "dept": "YAMB",
+      "dest": "YPED",
+      "route": "DCT BOBOP Q4 WOONA Q60 KAKLU H309 AD W142 DOLVU DCTT",
+      "acft": "Any",
+      "notes": "If R570C or D active"
     },
     {
       "dept": "YAMB",
@@ -5507,20 +5598,6 @@
       "dept": "YMES",
       "dest": "YSCB",
       "route": "DCT ESL W290 CB DCT",
-      "acft": "Any",
-      "notes": ""
-    },
-    {
-      "dept": "YMES",
-      "dest": "YMES",
-      "route": "DEPARTURE: DCT ESL [LANOS, TAVET, NOLOX or DUNNE] DCT FIRST POINT OUTSIDE R360/M301",
-      "acft": "Any",
-      "notes": ""
-    },
-    {
-      "dept": "YMES",
-      "dest": "YMES",
-      "route": "ARRIVAL: LAST POINT OUTSIDE R360/M301 DCT [GIPPS, PUKIM, RUPOD or ENBUB] ESL DCT",
       "acft": "Any",
       "notes": ""
     },
@@ -5912,17 +5989,31 @@
     {
       "dept": "YPED",
       "dest": "YAMB",
-      "route": "DCT DOLVU W142 AD V361 MIA CBA AGETA W623 IVL W749 DULIN DCT If R570C or D active: DCT DOLVU W142 AD V361 MIA CBA VERAV Y27 EDPEG PUGON PARRY Y195 DULIN DCT",
+      "route": "DCT DOLVU W142 AD V361 MIA CBA AGETA W623 IVL W749 DULIN DCT",
       "acft": "Any",
       "notes": ""
     },
     {
       "dept": "YPED",
       "dest": "YAMB",
-      "route": "DCT DOLVU W142 AD V361 UPROT Y27 IGIPA Y46 EMTID Y27 EDPEG PUGON PARRY Y195 DULIN DCT If R570C or D active: DCT DOLVU W142 AD V361 UPROT Y27 EDPEG PUGON PARRY Y195 DULIN DCT",
+      "route": "DCT DOLVU W142 AD V361 MIA CBA VERAV Y27 EDPEG PUGON PARRY Y195 DULIN DCT",
+      "acft": "Any",
+      "notes": "If R570C or D active"
+    },
+    {
+      "dept": "YPED",
+      "dest": "YAMB",
+      "route": "DCT DOLVU W142 AD V361 UPROT Y27 IGIPA Y46 EMTID Y27 EDPEG PUGON PARRY Y195 DULIN DCT",
       "acft": "Any",
       "notes": ""
     },
+    {
+      "dept": "YPED",
+      "dest": "YAMB",
+      "route": "DCT DOLVU W142 AD V361 UPROT Y27 EDPEG PUGON PARRY Y195 DULIN DCT",
+      "acft": "Any",
+      "notes": "If R570C or D active"
+    }
     {
       "dept": "YPED",
       "dest": "YBTL",
@@ -6332,16 +6423,37 @@
     {
       "dept": "YSRI",
       "dest": "YAMB",
-      "route": "DCT STUIE NIVOT Z127 EKESU DCT SCATZ DCT UPVEN H66 TW W411 DULIN DCT If R560 active: DCT STUIE H530 MUDGI H66 TW W236 DULIN",
+      "route": "DCT STUIE NIVOT Z127 EKESU DCT SCATZ DCT UPVEN H66 TW W411 DULIN DCT",
       "acft": "Any",
-      "notes": "(FL240 and ABV and expect restriction FL240 by MUDGI) DCT STUIE DCT NIVOT Z127 EKESU Z127 DAGVA Z400 ELKAB Z105 EKIBI V258 TW W411 DULIN (FL230 and BLW)"
+      "notes": "FL240 and ABV and expect restriction FL240 by MUDGI"
+    },
+    {
+      "dept": "YSRI",
+      "dest": "YAMB",
+      "route": "DCT STUIE NIVOT Z127 EKESU Z127 DAGVA Z400 ELKAB Z105 EKIBI V258 TW W411 DULIN",
+      "acft": "Any",
+      "notes": "FL230 and BLW"
+    }
+    {
+      "dept": "YSRI",
+      "dest": "YAMB",
+      "route": "DCT STUIE H530 MUDGI H66 TW W236 DULIN",
+      "acft": "Any",
+      "notes": "FL230 and BLW"
     },
     {
       "dept": "YSRI",
       "dest": "YBTL",
-      "route": "DCT STUIE H530 LASUD Q293 AKUMI Q147 VOMPA Q165 TL DCT If R570B or D active: DCT STUIE H530 KABIX Q147 VOMPA Q165 TL DCT",
+      "route": "DCT STUIE H530 LASUD Q293 AKUMI Q147 VOMPA Q165 TL DCT",
       "acft": "Any",
       "notes": ""
+    },
+    {
+      "dept": "YSRI",
+      "dest": "YBTL",
+      "route": "DCT STUIE H530 KABIX Q147 VOMPA Q165 TL DCT",
+      "acft": "Any",
+      "notes": "If R570B or D active"
     },
     {
       "dept": "YSRI",
@@ -6486,9 +6598,16 @@
     {
       "dept": "YSSY",
       "dest": "YPTN",
-      "route": "DCT TESAT H530 IVRAD Q57 MIGAX A464 TN DCT If R481 active, plan: DCT KADOM W604 BENBU Q304 LASUD H530 IVRAD Q57 MIGAX A464 TN DCT",
+      "route": "DCT TESAT H530 IVRAD Q57 MIGAX A464 TN DCT",
       "acft": "Any",
       "notes": ""
+    },
+    {
+      "dept": "YSSY",
+      "dest": "YSNW",
+      "route": "DCT KADOM W604 BENBU Q304 LASUD H530 IVRAD Q57 MIGAX A464 TN DCT",
+      "acft": "Any",
+      "notes": "If R481 active"
     },
     {
       "dept": "YWLM",
