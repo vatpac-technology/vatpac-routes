@@ -6013,7 +6013,7 @@
       "route": "DCT DOLVU W142 AD V361 UPROT Y27 EDPEG PUGON PARRY Y195 DULIN DCT",
       "acft": "Any",
       "notes": "If R570C or D active"
-    }
+    },
     {
       "dept": "YPED",
       "dest": "YBTL",
@@ -6433,7 +6433,7 @@
       "route": "DCT STUIE NIVOT Z127 EKESU Z127 DAGVA Z400 ELKAB Z105 EKIBI V258 TW W411 DULIN",
       "acft": "Any",
       "notes": "FL230 and BLW"
-    }
+    },
     {
       "dept": "YSRI",
       "dest": "YAMB",
