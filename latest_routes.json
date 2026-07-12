@@ -704,7 +704,7 @@
     {
       "dept": "YBCS",
       "dest": "YPDN",
-      "route": "DCT CS W281 VEVAV W473 DUMPA KARRA GATOR DN DCT",
+      "route": "DCT CS W281 VEVAV W473 DUMPA DAGAK GATOR DN DCT",
       "acft": "Non-Jet Only",
       "notes": ""
     },
@@ -942,7 +942,7 @@
     {
       "dept": "YBNA",
       "dest": "YSWS",
-      "route": "DCT BNA W256 LOKSU W342 JOKER J70 INOKE Z233 ELKAB Z400 DAGVA Q58 UPDAK",
+      "route": "DCT BNA W256 LOSKU W342 JOKER J70 INOKE Z233 ELKAB Z400 DAGVA Q58 UPDAK",
       "acft": "Non-Jet Only",
       "notes": ""
     },
@@ -3035,7 +3035,7 @@
     {
       "dept": "YPKS",
       "dest": "YSWS",
-      "route": "DCT PKS W703 CWR W599 ENVOL Y52 UPDAK DCT",
+      "route": "DCT PKS W703 CWR V599 ENVOL Y52 UPDAK DCT",
       "acft": "Any",
       "notes": ""
     },
@@ -4120,9 +4120,9 @@
     {
       "dept": "YSSY",
       "dest": "YBBN",
-      "route": "BLW FL250 DCT TESAT H252 UPNEX H140 MATLA Y43 BANDA H252 LAGOB DCT",
+      "route": "DCT TESAT H252 UPNEX H140 MATLA Y43 BANDA H252 LAGOB DCT",
       "acft": "Any",
-      "notes": ""
+      "notes": "BLW FL250"
     },
     {
       "dept": "YSSY",
@@ -6234,7 +6234,7 @@
     {
       "dept": "YPTN",
       "dest": "YSRI",
-      "route": "DCT TN T74 ENPAG H319 PKS W703 CWR W599 ENVOL Y52 RUPEM STUIE DCT",
+      "route": "DCT TN T74 ENPAG H319 PKS W703 CWR V599 ENVOL Y52 RUPEM STUIE DCT",
       "acft": "Any",
       "notes": ""
     },
